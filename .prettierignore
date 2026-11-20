@@ -1,0 +1,12 @@
+node_modules
+.next
+out
+coverage
+build
+dist
+*.log
+.DS_Store
+public/cv/*.pdf
+package-lock.json
+playwright-report
+test-results
